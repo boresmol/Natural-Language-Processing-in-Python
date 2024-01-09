@@ -1,2 +1,8 @@
 # Natural-Language-Processing-in-Python
-Repositorio del curso Natural Language Processing in Python. El curso se compone de 5 capítulos...
+Repositorio del curso *Natural Language Processing in Python*. El curso se compone de 5 secciones:
+1. *Introduction to Natural Language Processing in Python*: En esta sección se enseñan las técnicas fundamentales del procesamiento del lenguaje natural tales                                                              como identificar y separar palabras, como extraer tópicos y como construir un clasificador de *fake                                                             news*. Se enseña también el uso básico de librerías como `NLTK`.
+2. *Sentiment Analysis in Python*: En esta sección se aprende como extraer información sobre los sentimientos expresados en diversos tipos de documentos. Se                                       usarán librerías como `NLTK`y `Scikit-Learn`.
+3. *Natural Language Processing with spaCy*: En este capítulo se enseña como usar la librería `spaCy`para tareas como tokenización, parsing o reconocimiento de                                              entidades.
+4. *Spoken Language Processing in Python*: Procesamiento de archivos de audio con Python. Se enseña como cargar, transformar, transcribir y clasificar archivos                                            de audio.
+5. *Feature Engineering for NLP in Python*: En este capítulo se enseñan técnicas que permitirán extraer información relevante de un texto y transformarla a                                                 formatos aceptados por modelos de ML. Específicamente, se enseñan técnicas de POS tagging, reconocimiento de                                                    entidades nombradas, puntuación de legibilidad o modelos de n-gramas y tf-idf. 
+
